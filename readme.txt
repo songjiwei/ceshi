@@ -5,3 +5,4 @@ Git is free software
 dev分支修改
 master冲突测试`
 dev冲突测试
+现在测试bug修复
